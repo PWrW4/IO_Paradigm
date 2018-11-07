@@ -3,5 +3,5 @@
 *.vpp.working
 *.vpp.working-journal
 *.lck
-*.vpp.back*
+*.vpp.bak*
 tmp/*
